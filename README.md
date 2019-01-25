@@ -44,4 +44,72 @@ http://blog.cugxuan.cn/2018/11/16/Math/MathML-in-hexo-and-gitbook/
 http://note.qidong.name/2018/03/hugo-mathjax/
 
 
+---
+
+
+hexo 模板使用
+
+
+---
+title: 《算法与数据结构》学习笔记9：并查集
+categories: 算法与数据结构
+tags:
+  - 并查集
+  - 路径压缩
+mathjax: true
+toc: true 
+permalink: data-structure/disjoint-set
+---
+
+
+---
+title: 《算法与数据结构》学习笔记14：树状数组
+categories: 高级数据结构
+tags:
+  - 平衡二叉树
+mathjax: true
+permalink: data-structure/fenwick-tree
+toc: true 
+date: 2018-05-03 08:00
+---
+
+
+---
+title: 《算法与数据结构》学习笔记13：线段树
+categories: 高级数据结构
+tags:
+  - 线段树
+mathjax: true
+permalink: data-structure/segment-tree
+toc: true 
+date:   2018-05-02 08:00
+---
+
+
+---
+title: 《算法与数据结构》学习笔记16：平衡二叉树
+categories: 高级数据结构
+tags:
+  - 平衡二叉树
+mathjax: true
+permalink: data-structure/avl-tree
+toc: true 
+date: 2018-05-05 08:00
+---
+
+
+---
+title: 《算法与数据结构》学习笔记15：Trie
+categories: 高级数据结构
+tags:
+  - Trie
+mathjax: true
+permalink: data-structure/trie
+toc: true 
+date: 2018-05-01 08:00
+---
+
+
+
+
 
