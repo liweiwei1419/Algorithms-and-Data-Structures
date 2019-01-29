@@ -1,4 +1,17 @@
-# 【算法日积月累】10-堆排序、heapy
+---
+title: 【算法日积月累】10-堆排序、heapify、原地堆排序
+date: 2019-01-11 08:00:00
+author: liwei
+top: false
+mathjax: true
+summary: 本文介绍了 heapify 与原地堆排序。
+categories: 算法与数据结构
+tags:
+  - 优先队列
+permalink: algorithms-and-data-structures/heapify-and-heap-sort
+---
+
+# 【算法日积月累】10-堆排序、heapify、原地堆排序
 
 ---
 

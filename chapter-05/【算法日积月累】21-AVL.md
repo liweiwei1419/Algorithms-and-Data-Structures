@@ -1,4 +1,17 @@
-# 高级数据结构：平衡二叉树
+---
+title: 【算法日积月累】21-高级数据结构：平衡二叉树
+date: 2019-01-22 08:00:00
+author: liwei
+top: false
+mathjax: true
+summary: 本文介绍了平衡二叉树。
+categories: 算法与数据结构
+tags:
+  - avl-tree
+permalink: algorithms-and-data-structures/avl-tree
+---
+
+# 【算法日积月累】21-高级数据结构：平衡二叉树
 
 ---
 
